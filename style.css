@@ -1,0 +1,43 @@
+h1,h2 {
+    margin: 0 0 50px 0;
+    font-size: 2em;
+    font-style: sans-serif;
+    background-color:plum;
+    color:white;
+    border-left-style: solid;
+    border-left-width: 10px;
+    border-left-color: purple;
+}
+
+img {
+    width: 150px;
+    border-color: plum;
+    border-radius: 100px;
+}
+
+img:hover {
+    box-shadow: 0 0 2px 1px plum;
+}
+
+ul {
+    
+    border-style: thin;
+    border-radius: 10px;
+    border-color: plum;
+}
+
+.column1{
+    float: left;
+    width: 600px;
+}
+
+.column2{
+    float: right;
+    width: 600px;
+    margin-bottom: 20px;
+    
+}
+
+.picture{
+    background-color: plum;
+}
